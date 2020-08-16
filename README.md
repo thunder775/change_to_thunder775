@@ -34,15 +34,6 @@ game in terminal
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
 
-### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
-Classical 2 player game with nice graphics and animations.
-
-**⚡️ Built with: Flutter and Dart**
-- Used encapsulation to keep the `game` logic separate from Flutter. So the same codebase can be used even for running the 
-game in terminal
-- Learnt about animations in Flutter and created custom animation curve.
-
-**Screenshots**
 
 
 ## Education
@@ -57,3 +48,12 @@ I successfully passed 2 out of 3 course modules:
 - Full Stack Web Development
 
 [More detailed curriculum](https://mclarencollege.in/course-curriculum.html)
+
+###  Panjab University
+- **Program: B.Sc**
+- **Period: Mar 2016 - May 2019 (3 Yrs)**
+- **CGPA- 8.7**
+
+
+
+
