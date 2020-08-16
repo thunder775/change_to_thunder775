@@ -21,7 +21,7 @@ A news reader mobile app and a website focused on the tech community.
 <img src="https://mclarentimes.com/images/topSection_compressed.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
 
 
-### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
+### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com/thunder775/tic_tac_toe_refactoring_starter)
 Classical 2 player game with nice graphics and animations.
 
 **⚡️ Built with: Flutter and Dart**
