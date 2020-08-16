@@ -1,5 +1,5 @@
 ## Hi, I am Rahul! 👋
-I am a Full Stack Web and Mobile app Developer based in Punjab, India. I enjoy learning new things and building cool things.
+I am a Full Stack Web and Mobile app Developer based in Punjab, India. I enjoy learning new things and building something useful from that.
 
 Here are some of the projects I have worked on:
 ## Mobile Apps
