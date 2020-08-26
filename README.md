@@ -68,8 +68,8 @@ Insurance quote app
 
 **Screenshots**
 <img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/images/uc1.jpg?raw=true" />
-<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/uc2.PNG?raw=true" />
-<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/uc3.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/images/uc2.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/images/uc3.PNG?raw=true" />
 
 
 ## Education
