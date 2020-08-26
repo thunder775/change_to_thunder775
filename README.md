@@ -2,7 +2,7 @@
 I am a Full Stack Web and Mobile app Developer based in Punjab, India. I enjoy learning new things and building something useful from that.
 
 - 🌱 I’m currently learning everything 😃
-- ⭐ Fun fact: I love to optimise algorithms and come out with solutions that stand out of box.
+- ⭐ Fun fact: I love to optimise algorithms and play with them.
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
