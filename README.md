@@ -57,9 +57,9 @@ game in terminal
 - Learnt about animations in Flutter and created custom animation curve.
 
 **Screenshots**
-<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/t_1.PNG?raw=true" />
-<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/t_2.PNG?raw=true" />
-<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/t_3.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/t_1.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/t_2.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/t_3.PNG?raw=true" />
 
 ### Upcover - Insuretech Start-up - [Visit Website](https://upcover.com.au/)
 Insurance quote app
@@ -67,9 +67,9 @@ Insurance quote app
 **⚡️ Built with: Flutter and Dart**
 
 **Screenshots**
-<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/uc1.PNG?raw=true" />
-<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/uc2.PNG?raw=true" />
-<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/uc3.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/images/uc1.jpg?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/uc2.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/src/assets/uc3.PNG?raw=true" />
 
 
 ## Education
