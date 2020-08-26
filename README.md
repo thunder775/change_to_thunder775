@@ -15,10 +15,13 @@ I am a Full Stack Web and Mobile app Developer based in Punjab, India. I enjoy l
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/thunder775/change_to_thunder775/blob/master/images/flutter.png?raw=true" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/thunder775/change_to_thunder775/blob/master/images/flutter.png?raw=true" />
+<img align="left" alt="Dart" width="26px" src="https://github.com/thunder775/change_to_thunder775/blob/master/images/dart.png?raw=true" />
+<img align="left" alt="Firebase" width="26px" src="https://github.com/thunder775/change_to_thunder775/blob/master/images/firebase.jpg?raw=true" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="intelliJ" width="26px" src="https://github.com/thunder775/change_to_thunder775/blob/master/images/intellij.jpg?raw=true" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
