@@ -57,10 +57,19 @@ game in terminal
 - Learnt about animations in Flutter and created custom animation curve.
 
 **Screenshots**
+<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/t_1.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/t_2.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/t_3.PNG?raw=true" />
 
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
+### Upcover - Insuretech Start-up - [Visit Website](https://upcover.com.au/)
+Insurance quote app
 
+**⚡️ Built with: Flutter and Dart**
+
+**Screenshots**
+<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/uc1.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/uc2.PNG?raw=true" />
+<img alt="t_!" width="200px" src="https://github.com/thunder775/Portfolio/blob/master/src/assets/uc3.PNG?raw=true" />
 
 
 ## Education
@@ -84,9 +93,5 @@ I successfully passed 2 out of 3 course modules:
 
 
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ
 [linkedin]: https://www.linkedin.com/in/rahul-masih-014a78160/
 
