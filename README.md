@@ -1,7 +1,7 @@
 ## Hi, I am Rahul! 👋
 I am a Full Stack Web and Mobile app Developer based in Punjab, India. I enjoy learning new things and building something useful from that.
 
-- 🌱 I’m currently learning everything 😃
+- 🌱 Trying to learn new stuff😃
 - ⭐ Fun fact: I love to optimise algorithms and play with them.
 
 ### Connect with me:
