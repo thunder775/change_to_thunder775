@@ -72,6 +72,17 @@ Insurance quote app
 <img alt="t_!" width="200px" src="https://github.com/thunder775/thunder775/blob/master/images/uc3.jpg?raw=true" />
 
 
+### Movies Navigation - [Visit Website](https://thunder775.github.io/Movies_Database/)
+Insurance quote app
+
+**⚡️ Built with: ReactJS**
+
+<img alt="t_!" width="400px" src="https://github.com/thunder775/thunder775/blob/master/images/md_1.jpg?raw=true" />
+<img alt="t_!" width="400px" src="https://github.com/thunder775/thunder775/blob/master/images/md_2.jpg?raw=true" />
+<img alt="t_!" width="400px" src="https://github.com/thunder775/thunder775/blob/master/images/md_3.jpg?raw=true" />
+**Screenshots**
+
+
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
